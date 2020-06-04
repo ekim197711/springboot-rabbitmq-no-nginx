@@ -1,0 +1,1 @@
+curl -v -X POST "localhost:8080/api/greeting/?mymessage=Hi-Im-Happy"
